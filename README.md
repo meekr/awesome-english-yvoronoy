@@ -350,3 +350,22 @@ This awesome list is maintained with ❤️ for the English learning community.
 [npr-url]: https://www.npr.org/
 [murphy-grammar-url]: https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition
 
+
+## KHEA App (Work in Progress)
+
+The `/app` directory contains the scaffolded Next.js App Router shell for the upcoming KHEA English Practice experience. It is currently a UI and routing foundation only.
+
+### Running locally (placeholder)
+
+1. Install dependencies: `npm install`
+2. Start the dev server: `npm run dev`
+3. Build the app: `npm run build`
+
+### Troubleshooting npm registry access
+
+If you encounter registry access errors, confirm you are using the public npm registry:
+
+1. Check the current registry: `npm config get registry`
+2. Set the registry to npm: `npm config set registry https://registry.npmjs.org/`
+
+Corporate or restricted environments may require an npm login, proxy settings, or a custom registry configuration.

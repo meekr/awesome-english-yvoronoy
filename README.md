@@ -271,7 +271,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Anki][anki-url] - Flashcard app using spaced repetition for efficient vocabulary memorization.
 - [Memrise](https://www.memrise.com/) - User-created vocabulary lists with mnemonics and spaced repetition.
 - [Quizlet](https://quizlet.com/) - Create and study flashcard sets with various learning modes.
-
+- [WordHub](https://wordhub.top) - Vocabulary learning platform with etymology-based explanations, spaced repetition, and in-context reading.
 #### Dictionary Resources 📚
 - [Forvo](https://forvo.com/) - Native speaker pronunciations of words from different English-speaking regions.
 - [Dictionary.com](https://www.dictionary.com/) - Comprehensive dictionary with definitions, pronunciations, and example sentences.
